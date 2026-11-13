@@ -1,0 +1,20 @@
+[
+  {
+    "username": "sumeyya",
+    "password": "8d68c09bb34f6cc9d2b8f017036f5986e5b8f30a8ad5841b67c4cf69d519e98a",
+    "attempts": 3,
+    "locked": true
+  },
+  {
+    "username": "rabia",
+    "password": "e6fcecae9c39ea1fdc98299811335908042390155c7e68fbf68c00b0fc0acfda",
+    "attempts": 0,
+    "locked": false
+  },
+  {
+    "username": "ozturk",
+    "password": "04ead4dc6ba151a6bdcc8ac52147cfbc3a44c9495be5193d6bc0503e1b524bb7",
+    "attempts": 0,
+    "locked": false
+  }
+]
